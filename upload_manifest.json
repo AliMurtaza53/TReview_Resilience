@@ -1,0 +1,106 @@
+{
+  "destination": "https://github.com/AliMurtaza53/TReview_Resilience",
+  "status": "prepared_not_uploaded",
+  "files": [
+    {
+      "path": "PLAN.md",
+      "bytes": 21591,
+      "sha256": "016d40a2ec2d2b4ac5240a47cf09932f49204aa6a18df922935bf556f571b2dd"
+    },
+    {
+      "path": "FIGURES.md",
+      "bytes": 5822,
+      "sha256": "b082d4662a546237ff85532a236f3d0af4db9d42c244e9c845f99b339c3ee853"
+    },
+    {
+      "path": "CODEBOOK.md",
+      "bytes": 21879,
+      "sha256": "5433923750c4d6d72dc996535743e9457ae8ca74b6cb55907e53ab943a7f0d23"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1045,
+      "sha256": "afaaea18868f67a1e76dc992a003dffe8079a532f6e0485720bef46e31476f21"
+    },
+    {
+      "path": "GITHUB_UPLOAD.md",
+      "bytes": 1186,
+      "sha256": "a317361d879ea257557c4d14f390d7399ca59f678c5ebd48b43f9d55ff431aef"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 72,
+      "sha256": "a5b5fb3b9fdaaedfc3f26324ff296d4e633a24260866e433af02a7578f5f31e3"
+    },
+    {
+      "path": "validate_pilot.py",
+      "bytes": 1202,
+      "sha256": "9d9679cec47bc01b583a2aef32e36419d86664751fc718a9462d71d58842291f"
+    },
+    {
+      "path": "initial_review_matrix.xlsx",
+      "bytes": 51475,
+      "sha256": "e8ef807951c42309362f45584676af59ef368037b7a10d651a13b374357e6be2"
+    },
+    {
+      "path": "data/codebook.csv",
+      "bytes": 28104,
+      "sha256": "af55a6bd0783f2356e3b0c7d60713bc39e37ae8cb516c49594e897e804208691"
+    },
+    {
+      "path": "data/optimization_pilot.csv",
+      "bytes": 4750,
+      "sha256": "c1af94ffba93122f6ab7d869ebcea4cc60feadbbb0c30a1f672f8ac54f2af645"
+    },
+    {
+      "path": "data/primary_study_matrix.csv",
+      "bytes": 25847,
+      "sha256": "b180da9ea3f9991307e3226edcd5585f1a9e8bb53a3841a3ea4ac830788e2a81"
+    },
+    {
+      "path": "data/prior_reviews.csv",
+      "bytes": 6790,
+      "sha256": "5ddef78f806022f158e71048c69cd757ed599711f7743e281a8d03d203f1d553"
+    },
+    {
+      "path": "data/review_dimensions.csv",
+      "bytes": 1528,
+      "sha256": "82845588efb4e119b951c7f13e883cb993982d388fb6713f9123fd059235c728"
+    },
+    {
+      "path": "data/review_study_edges.csv",
+      "bytes": 115,
+      "sha256": "ab41c0a94f7d6380937fc96b619cb08b17210a4fe89c9afacef26925c4308bf7"
+    },
+    {
+      "path": "data/screening_log.csv",
+      "bytes": 113,
+      "sha256": "ab9cce937731237783fda3481f85eb8f895203c64179e4537ec54959ff726ba0"
+    },
+    {
+      "path": "data/search_log.csv",
+      "bytes": 137,
+      "sha256": "c8a9c536a9857581d845f686ea89e65c1c96e6923fb8339359317641bac7cf1e"
+    },
+    {
+      "path": "data/seed_register.csv",
+      "bytes": 35813,
+      "sha256": "68591db4df084d3c42045a3cdf11fadf1c8331b5584ff6a249598d841f96d539"
+    },
+    {
+      "path": "data/review_pilot.json",
+      "bytes": 10623,
+      "sha256": "14f1469d1a1c141fa9263df89fdc2b5d0f0d5e32d58b53a22a3009297d3818e3"
+    },
+    {
+      "path": "data/pilot_matrix.json",
+      "bytes": 370714,
+      "sha256": "0b57cab243064dcee6028080a7164eeb1e8108b6ff9e699a276745890fdffa1c"
+    },
+    {
+      "path": "evidence/prior_review_fulltext_notes.md",
+      "bytes": 18058,
+      "sha256": "0053ebf5ecac9e108e9d4ca75086e00a83802969136740e6dd24454bb82185bf"
+    }
+  ]
+}

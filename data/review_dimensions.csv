@@ -1,0 +1,9 @@
+﻿record_id,year,hazard,network,time,consequence,optim,validation,uncertainty,equity,evidence_locator
+Faturechi2015,2015,dimension,dimension,dimension,dimension,dimension,not_reported_as_dimension,dimension,not_reported_as_dimension,"Full text, Study Scope pp. 2-3; Tables 1-7 pp. 3-10; Conclusions p. 10"
+Mat15,2015,unassessed,unassessed,unassessed,unassessed,unassessed,unassessed,unassessed,unassessed,Undermind bibliographic metadata only; PDF retrieval unavailable
+Sun20b,2020,unassessed,unassessed,unassessed,unassessed,unassessed,unassessed,unassessed,unassessed,Undermind metadata; full text not yet extracted for this pilot
+Reb21,2021,dimension,dimension,dimension,dimension,not_reported_as_dimension,discussed,discussed,not_reported_as_dimension,"Full text Review Methodology p. 6; Fig. 3 p. 9; pp. 2-8, 11-12"
+Has22,2022,dimension,dimension,discussed,dimension,discussed,not_reported_as_dimension,discussed,not_reported_as_dimension,Full text Table 1 p. 4; Table 7 pp. 15-16; Conclusions p. 17
+Verschuur2024,2024,dimension,dimension,discussed,dimension,discussed,discussed,discussed,discussed,Full text p. 2; Fig. 1 p. 3; Fig. 3 p. 6; pp. 11-14
+Nirandjan2024,2024,dimension,outside_scope,discussed,dimension,outside_scope,discussed,dimension,not_reported_as_dimension,Full text §§2.1-2.3 pp. 4342-4346; §5 p. 4359; Appendix A
+Lamei2026,2026,dimension,dimension,dimension,dimension,dimension,dimension,dimension,not_reported_as_dimension,Full text §§2.1-2.3 pp. 6-9; Tables 3-6 pp. 10-16; §4 pp. 17-18
