@@ -1,0 +1,7 @@
+*.pdf
+*.sqlite*
+*.bib.backup
+node_modules/
+previews/
+__pycache__/
+*.pyc
